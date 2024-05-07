@@ -7,6 +7,12 @@ Unsupervised learning was then performed on the data to determine the subclasses
 
 
 Methods used:
-K-means
-Guassian mixed model
-Heirarchical clustering
+
+
+-K-means
+
+
+-Guassian mixed model
+
+
+-Heirarchical clustering
